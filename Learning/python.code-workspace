@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../html"
+		},
+		{
+			"path": "../../arduino"
+		},
+		{
+			"path": "../../c"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "python"
+	}
+}

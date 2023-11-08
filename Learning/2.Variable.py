@@ -1,2 +1,3 @@
-name = input("Enter your name: ")
-print("Hello ", name)
+#this program creates a variable and then prints it
+name = ("Tarun")
+print(name)
